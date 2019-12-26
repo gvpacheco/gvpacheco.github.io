@@ -1,4 +1,1 @@
-## About me
-Electrical Engineering Bsc - UFV(2018)
-
-Master's degree student    - UFMG
+Gabriel is a Master's student in control and robotics in the MACRO - UFMG research group. He also holds a Bsc. degree in Electrical Engineering from Universidade Federal de Viçosa. His current research interests are optimal control and robot navigation.
