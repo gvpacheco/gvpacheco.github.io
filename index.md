@@ -6,7 +6,7 @@ Estudante de mestrado em controle, automação e robótica no grupo de pesquisa 
 ### Contato
 gabrielvpacheco@gmail.com
 
-gabrielṕacheco@ufmg.br
+gabrielpacheco@ufmg.br
 
 ### Últimas Publicações
 * **GABRIEL V. PACHECO**; LUCIANO C. A. PIMENTA; GUILHERME V. RAFFO. Convergência e Circulação de Curvas Variantes no Tempo com um Conjunto de Quadrotores. In: XIV Simpósio Brasileiro de Automação Inteligente -- SBAI, 27 a 30 de Outubro de 2019, Ouro Preto -- MG. Anais do XIV Simpósio Brasileiro de Automação Inteligente.
