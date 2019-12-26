@@ -4,8 +4,7 @@ Estudante de mestrado em controle, automação e robótica no grupo de pesquisa 
 [Curriculum Vitae](./CV-pt.pdf)
 
 ### Contato
-gabrielvpacheco@gmail.com
-
+gabrielvpacheco@gmail.com \
 gabrielpacheco@ufmg.br
 
 ### Últimas Publicações
