@@ -1,1 +1,2 @@
-Gabriel is a Master's student in control and robotics in the MACRO - UFMG research group. He also holds a BSc. degree in Electrical Engineering from Universidade Federal de Viçosa. His current research interests are optimal control and robot navigation.
+
+Estudante de mestrado em controle, automação e robótica no grupo de pesquisa MACRO da Universidade Federal de Minas Gerais. Obteve grau de bacharel em Engenharia Elétrica pela Universidade Federal de Viçosa (2018). Interesses de pesquisa: controle ótimo e navegação de robôs.
