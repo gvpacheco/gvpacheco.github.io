@@ -1,7 +1,11 @@
 
 Estudante de mestrado em controle, automação e robótica no grupo de pesquisa [MACRO](http://macro.ppgee.ufmg.br/) da Universidade Federal de Minas Gerais. Obteve grau de bacharel em Engenharia Elétrica pela Universidade Federal de Viçosa (2018). Interesses de pesquisa: controle ótimo e navegação de robôs.
 
-[CV](./CV-pt.pdf)
+[Curriculum Vitae](./CV-pt.pdf)
+
+### Contato
+gabrielvpacheco@gmail.com 
+gabriel.ṕacheco@ufmg.br
 
 ### Últimas Publicações
 * **GABRIEL V. PACHECO**; LUCIANO C. A. PIMENTA; GUILHERME V. RAFFO. Convergência e Circulação de Curvas Variantes no Tempo com um Conjunto de Quadrotores. In: XIV Simpósio Brasileiro de Automação Inteligente -- SBAI, 27 a 30 de Outubro de 2019, Ouro Preto -- MG. Anais do XIV Simpósio Brasileiro de Automação Inteligente.
